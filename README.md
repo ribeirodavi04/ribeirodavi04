@@ -1,7 +1,7 @@
 
 # Ola, sou o Davi Ribeiro 👋
 
-Sou um desenvolvedor Backend de 22 anos, residente em São Paulo e recém-formado em Ciência da Computação. Tenho dois anos de experiência como Fullstack, trabalhando com tecnologias como C#, ASP.NET, SQL Server, Entity Framework no backend e AngularJS no frontend. No momento, estou focado em melhorar meu conhecimento em arquitetura de sistemas, enquanto continuo explorando outras linguagens e framewokrs de meu interesse, como Node.js e Java, no backend e React e Angular, no frontend. 
+Sou um desenvolvedor Backend de 22 anos, residente em São Paulo e recém-formado em Ciência da Computação. Tenho dois anos de experiência como desenvolvedor Fullstack, trabalhando com tecnologias como C#, ASP.NET, SQL Server, Entity Framework no backend e AngularJS no frontend. No momento, estou focado em melhorar meu conhecimento em arquitetura de sistemas, enquanto continuo explorando outras linguagens e framewokrs de meu interesse, como Node.js e Java, no backend e React e Angular, no frontend. 
 
 <br>
 
