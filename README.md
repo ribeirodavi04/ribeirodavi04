@@ -3,7 +3,7 @@
 
 Sou um desenvolvedor Backend de 22 anos, residente em São Paulo e recém-formado em Ciência da Computação. Tenho dois anos de experiência como desenvolvedor Fullstack, trabalhando com tecnologias como C#, ASP.NET, SQL Server, Entity Framework Core no backend e AngularJS no frontend.
 
-<br>
+
 
 ##  Ferramentas e Tecnologias 💻
 <div style="display: inline_block">
@@ -17,7 +17,7 @@ Sou um desenvolvedor Backend de 22 anos, residente em São Paulo e recém-formad
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>  
 </div>
 
-<br>
+
 
 ## Contatos 📨
 <div>
