@@ -1,19 +1,20 @@
 
 # Ola, sou Davi Ribeiro 👋
 
-Sou um desenvolvedor Backend de 22 anos, residente em São Paulo e recém-formado em Ciência da Computação. Tenho dois anos de experiência como desenvolvedor Fullstack, trabalhando com tecnologias como C#, ASP.NET, SQL Server, Entity Framework no backend e AngularJS no frontend. No momento, estou focado em melhorar meu conhecimento em arquitetura de sistemas, enquanto continuo explorando outras linguagens e framewokrs de meu interesse, como Node.js e Java, no backend e React e Angular, no frontend. 
+Sou um desenvolvedor Backend de 22 anos, residente em São Paulo e recém-formado em Ciência da Computação. Tenho dois anos de experiência como desenvolvedor Fullstack, trabalhando com tecnologias como C#, ASP.NET, SQL Server, Entity Framework Core no backend e AngularJS no frontend.
 
 <br>
 
 ##  Ferramentas e Tecnologias 💻
 <div style="display: inline_block">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" height="60"/>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>  
 </div>
 
 <br>
